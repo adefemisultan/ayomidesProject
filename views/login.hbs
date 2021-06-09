@@ -1,0 +1,47 @@
+<div class='login'>
+  <div class='left'>
+    <img src='/img/login_img.svg' alt='' />
+    <h4>Get the most out of ePrescribing</h4>
+    <p>Get a refresher on ePrescribing time savers like:</p>
+
+    <ul>
+      <li>Sending multiple medications in one order</li>
+      <li>Canceling medications</li>
+      <li>Attaching medications to Plan</li>
+      <li>Adding 'Supervising Physician'</li>
+    </ul>
+  </div>
+  <div class='right'>
+    <form
+      action='/login'
+      method='POST'
+      enctype='multipart/form-data'
+      class='row g-3 needs-validation'
+      novalidate
+    >
+      <div class='col-6'>
+        <div class='form-floating mb-3'>
+          <input
+            type='email'
+            class='form-control'
+            id='floatingInput'
+            placeholder='name@example.com'
+          />
+          <label for='floatingInput'>Email address</label>
+        </div>
+      </div>
+      <div class='col-6'>
+        <div class='form-floating'>
+          <input
+            type='password'
+            class='form-control'
+            id='floatingPassword'
+            placeholder='Password'
+          />
+          <label for='floatingPassword'>Password</label>
+        </div>
+      </div>
+
+    </form>
+  </div>
+</div>

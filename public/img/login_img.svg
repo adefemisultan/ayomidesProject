@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="184px" viewBox="0 0 118 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eRx-changes" transform="translate(-322.000000, -79.000000)">
+            <g id="Group" transform="translate(322.000000, 82.000000)">
+                <path d="M105.5,36.5 L105.5,137 C105.5,137.966498 105.108249,138.841498 104.474874,139.474874 C103.841498,140.108249 102.966498,140.5 102,140.5 L102,140.5 L17,140.5 C16.0335017,140.5 15.1585017,140.108249 14.5251263,139.474874 C13.8917508,138.841498 13.5,137.966498 13.5,137 L13.5,137 L13.5,36.5 L105.5,36.5 Z" id="Rectangle-Copy-2" stroke="#2B437A" stroke-width="3" fill="#E1EEF7"></path>
+                <path d="M33,53 L103,53 L103,53 L103,125 L33,125 C31.8954305,125 31,124.104569 31,123 L31,55 C31,53.8954305 31.8954305,53 33,53 Z" id="Rectangle" fill="#FFFFFF"></path>
+                <rect id="Rectangle" stroke="#2B437A" stroke-width="3" fill="#0072C6" x="2.5" y="-1.5" width="114" height="38" rx="2"></rect>
+                <g id="Group-12" transform="translate(46.000000, 67.000000)" fill="#2B437A">
+                    <rect id="Rectangle" x="17.4324324" y="0" width="6.97297297" height="43"></rect>
+                    <rect id="Rectangle" x="0" y="17.9166667" width="43" height="7.16666667"></rect>
+                </g>
+                <line x1="16.5" y1="5" x2="16.5" y2="30" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="27.5" y1="5" x2="27.5" y2="21" id="Line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <ellipse id="Oval" fill="#E1EEF7" style="mix-blend-mode: multiply;" cx="59" cy="171.5" rx="59" ry="9.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
